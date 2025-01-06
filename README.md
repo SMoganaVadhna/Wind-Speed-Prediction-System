@@ -23,15 +23,21 @@ Clone the repository:
 git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction.git
 
 Open the Jupyter Notebook:
+
 jupyter notebook Wind_Speed_Prediction.ipynb
+
 Run the notebook step-by-step to reproduce the analysis and results.
 
 Technologies Used
+
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 Results
+
 Achieved accurate wind speed predictions using Machine Learning models.
+
 Identified key meteorological factors influencing predictions.
 
 Contact
