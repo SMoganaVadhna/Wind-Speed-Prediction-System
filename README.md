@@ -26,7 +26,7 @@ This project evaluates the effectiveness of various Machine Learning algorithms 
 
 2. **Open the Jupyter Notebook:**
    ```bash
-jupyter notebook Wind_Speed_Prediction.ipynb
+   jupyter notebook Wind_Speed_Prediction.ipynb
 
 3. **Run the Notebook:**
 
