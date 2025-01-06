@@ -1,47 +1,47 @@
 # Wind-Speed-Prediction-System
 This project forecasts wind speed to improve wind power generation, reduce costs, and mitigate wind-related natural hazards. It analyzes climate trends, issues early warnings, and evaluates Machine Learning techniques for accuracy in weather prediction, supporting sustainability and disaster preparedness.
 
+Wind Speed Prediction System
+This project forecasts wind speed to improve wind power generation, reduce costs, and mitigate wind-related natural hazards. It also analyzes climate trends, issues early warnings, and evaluates Machine Learning techniques for accuracy in weather prediction, supporting sustainability and disaster preparedness.
+
 Project Overview
 Wind speed prediction plays a crucial role in:
 
-Enhancing wind power generation planning and optimizing resource usage.
-Mitigating risks associated with severe wind-related natural hazards, such as thunderstorms, tornadoes, and large hail.
-Identifying climate trends and issuing early warnings for extreme weather conditions.
+Enhancing Renewable Energy Planning: Supports wind power generation and optimizes resource usage.
+Mitigating Natural Hazards: Predicts severe weather events (e.g., thunderstorms, tornadoes) to minimize disruptions.
+Analyzing Climate Trends: Identifies weather patterns to detect anomalies and issue early warnings.
 This project evaluates the effectiveness of various Machine Learning algorithms in predicting wind speed using the provided weather dataset.
 
 Files in the Repository
 Wind_Speed_Prediction.ipynb:
-A Jupyter Notebook containing the implementation of the project.
-Includes data preprocessing, exploratory data analysis, feature selection, and Machine Learning model development.
+A Jupyter Notebook containing data preprocessing, exploratory analysis, feature selection, and Machine Learning model development.
+
 Weather.csv:
-A CSV file containing the weather data used for prediction.
-Features include temperature, humidity, wind direction, pressure, and other meteorological factors.
+A dataset containing weather data, including features like temperature, humidity, wind direction, and pressure.
 
 How to Use
+Clone the Repository:
 
-Clone the repository:
-  git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction.git
-
+bash
+Copy code
+git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction.git  
 Open the Jupyter Notebook:
 
-  jupyter notebook Wind_Speed_Prediction.ipynb
-
-  Run the notebook step-by-step to reproduce the analysis and results.
+bash
+Copy code
+jupyter notebook Wind_Speed_Prediction.ipynb  
+Run the Notebook:
+Execute cells step-by-step to reproduce the analysis and results.
 
 Technologies Used
-
-  Programming Language: Python
-
-  Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
+Programming Language: Python
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Results
-
-  Achieved accurate wind speed predictions using Machine Learning models.
-
-  Identified key meteorological factors influencing predictions.
-
+Achieved accurate wind speed predictions using Machine Learning models.
+Identified key meteorological factors influencing predictions.
 Contact
-  For questions or collaborations, feel free to reach out:
+For questions or collaborations, reach out via:
 
 Email: moganavadhna98@outlook.com
-LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mogana-vadhna-suntrakumar-5793b2224/)
+LinkedIn: linkedin.com/in/mogana-vadhna-suntrakumar-5793b2224
+
