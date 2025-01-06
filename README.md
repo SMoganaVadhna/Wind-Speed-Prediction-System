@@ -43,5 +43,5 @@ This project evaluates the effectiveness of various Machine Learning algorithms 
 ## Contact
    For questions or collaborations, feel free to reach out:
 
-     - Email: moganavadhna98@outlook.com
-     - LinkedIn: linkedin.com/in/mogana-vadhna-suntrakumar-5793b2224
+  - Email: moganavadhna98@outlook.com
+  - LinkedIn: linkedin.com/in/mogana-vadhna-suntrakumar-5793b2224
