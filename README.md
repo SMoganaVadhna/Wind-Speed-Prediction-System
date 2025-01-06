@@ -20,28 +20,28 @@ Features include temperature, humidity, wind direction, pressure, and other mete
 How to Use
 
 Clone the repository:
-git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction.git
+  git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction.git
 
 Open the Jupyter Notebook:
 
-jupyter notebook Wind_Speed_Prediction.ipynb
+  jupyter notebook Wind_Speed_Prediction.ipynb
 
-Run the notebook step-by-step to reproduce the analysis and results.
+  Run the notebook step-by-step to reproduce the analysis and results.
 
 Technologies Used
 
-Programming Language: Python
+  Programming Language: Python
 
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+  Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 Results
 
-Achieved accurate wind speed predictions using Machine Learning models.
+  Achieved accurate wind speed predictions using Machine Learning models.
 
-Identified key meteorological factors influencing predictions.
+  Identified key meteorological factors influencing predictions.
 
 Contact
-For questions or collaborations, feel free to reach out:
+  For questions or collaborations, feel free to reach out:
 
 Email: moganavadhna98@outlook.com
 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/mogana-vadhna-suntrakumar-5793b2224/)
