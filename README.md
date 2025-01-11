@@ -22,7 +22,7 @@ This project evaluates the effectiveness of various Machine Learning algorithms 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction.git
+   git clone https://github.com/SMoganaVadhna/Wind-Speed-Prediction-System.git
 
 2. **Open the Jupyter Notebook:**
    ```bash
